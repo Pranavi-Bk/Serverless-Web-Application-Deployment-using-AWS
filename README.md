@@ -136,3 +136,6 @@ By leveraging AWS services like Lambda, DynamoDB, API Gateway, S3, and CloudFron
 ## 👩‍💻 Authors
 - **P. Prudvhi Sai**
 - **B. K. Pranavi**
+-**D.Lakshmi Aneela**
+-**K.Sai Vibhas**
+  
